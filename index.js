@@ -6,6 +6,6 @@ app.listen(80, function () {
     console.log('Example app listening on port 80!')
 })
 
-app.route('/').get((request, response) => {
+app.route('/api').get((request, response) => {
     response.json({ message: "done" })
 })

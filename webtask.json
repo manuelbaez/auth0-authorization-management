@@ -2,7 +2,7 @@
   "title": "Auth0 Custom Authorization",
   "name": "auth0-authz",
   "version": "0.0.1",
-  "author": "auth0",
+  "author": "Manuel Baez",
   "description": "This extension gives Auth0 customers the possibility to manage group memberships for their users.",
   "type": "application",
   "logoUrl": "https://cdn.auth0.com/extensions/auth0-authz/assets/logo.svg",

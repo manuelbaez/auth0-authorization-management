@@ -1,0 +1,22 @@
+{
+  "name": "auth0-authorization-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelbaez/auth0-authorization-management.git"
+  },
+  "author": "Manuel Baez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuelbaez/auth0-authorization-management/issues"
+  },
+  "homepage": "https://github.com/manuelbaez/auth0-authorization-management#readme",
+  "dependencies": {
+    "auth0-extension-hapi-tools": "^1.3.1"
+  }
+}
